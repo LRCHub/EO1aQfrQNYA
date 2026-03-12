@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ジターバグ",
+  "base_artist": "ELLEGARDEN",
+  "createdAt": "2026-03-12T08:37:31.137057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジターバグ",
+      "artist": "Nanashi Hachiya",
+      "has_synced": true,
+      "path": "select/01_ジターバグ_Nanashi_Hachiya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジターバグ⁣",
+      "artist": "蜂屋ななし",
+      "has_synced": true,
+      "path": "select/02_ジターバグ⁣_蜂屋ななし.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジターバグ",
+      "artist": "ELLEGARDEN",
+      "has_synced": true,
+      "path": "select/03_ジターバグ_ELLEGARDEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジターバグ",
+      "artist": "ELLEGARDEN",
+      "has_synced": true,
+      "path": "select/04_ジターバグ_ELLEGARDEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ジターバグ",
+      "artist": "蜂屋ななし Feat. 初音ミク, MEIKO",
+      "has_synced": true,
+      "path": "select/05_ジターバグ_蜂屋ななし_Feat._初音ミク,_MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ジターバグ (feat. MEIKO & Hatsune Miku)",
+      "artist": "Hachiya nanashi",
+      "has_synced": true,
+      "path": "select/06_ジターバグ_(feat._MEIKO_&_Hatsune_Miku)_Hachiya_nanashi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ジターバグ",
+      "artist": "蜂屋ななし",
+      "has_synced": true,
+      "path": "select/07_ジターバグ_蜂屋ななし.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジターバグ",
+      "artist": "ELLEGARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_ジターバグ_ELLEGARDEN.txt"
+    }
+  ]
+}
